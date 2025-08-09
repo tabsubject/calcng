@@ -39,7 +39,7 @@ export function BlogHomePage() {
       category: 'Engine Components',
       readTime: '10 min read',
       publishDate: 'December 12, 2024',
-      image: '/images/blog/understanding-carburetor-all-you-should-know.jpg'
+      image: '/images/blog/understanding-carburetor-all-you-should-know.webp'
     },
     {
       title: 'Does AC Increase Fuel Consumption?',
