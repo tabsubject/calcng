@@ -33,7 +33,7 @@ export function EngineTorqueAllYouNeedToKnowPage() {
           <article className="lg:w-2/3">
             <header className="mb-8">
               <img 
-                src="/images/blog/engine-torque-all-you-need-to-know.jpg" 
+                src="/images/blog/engine-torque-all-you-need-to-know.webp" 
                 alt="Engine Torque All You Need to Know"
                 className="w-full h-64 sm:h-80 object-cover rounded-lg mb-6"
               />
