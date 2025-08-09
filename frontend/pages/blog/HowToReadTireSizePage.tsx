@@ -33,7 +33,7 @@ export function HowToReadTireSizePage() {
           <article className="lg:w-2/3">
         <header className="mb-8">
           <img 
-            src="/images/blog/how-to-read-tire-size.jpg" 
+            src="/images/blog/how-to-read-tire-size.webp" 
             alt="How to Read Tire Size A Guide to Understanding Tire Numbers"
             className="w-full h-64 sm:h-80 object-cover rounded-lg mb-6"
           />
