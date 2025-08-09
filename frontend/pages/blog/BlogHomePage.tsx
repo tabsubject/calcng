@@ -12,7 +12,7 @@ export function BlogHomePage() {
       category: 'Engine Performance',
       readTime: '8 min read',
       publishDate: 'December 15, 2024',
-      image: '/images/blog/engine-torque-all-you-need-to-know.jpg'
+      image: '/images/blog/engine-torque-all-you-need-to-know.webp'
     },
     {
       title: 'Torque vs Horsepower: The Differences',
@@ -21,7 +21,7 @@ export function BlogHomePage() {
       category: 'Engine Performance',
       readTime: '6 min read',
       publishDate: 'December 14, 2024',
-      image: '/images/blog/torque-vs-horsepower-the-differences.jpg'
+      image: '/images/blog/torque-vs-horsepower-the-differences.webp'
     },
     {
       title: 'What Gear Consumes Less Fuel',
@@ -30,7 +30,7 @@ export function BlogHomePage() {
       category: 'Fuel Economy',
       readTime: '5 min read',
       publishDate: 'December 13, 2024',
-      image: '/images/blog/what-gear-consumes-less-fuel.jpg'
+      image: '/images/blog/what-gear-consumes-less-fuel.webp'
     },
     {
       title: 'Understanding Carburetor: All You Should Know',
@@ -48,7 +48,7 @@ export function BlogHomePage() {
       category: 'Fuel Economy',
       readTime: '4 min read',
       publishDate: 'December 11, 2024',
-      image: '/images/blog/does-ac-increase-fuel-consumption.jpg'
+      image: '/images/blog/does-ac-increase-fuel-consumption.webp'
     },
     {
       title: 'Carburetor vs Fuel Injection',
@@ -57,7 +57,7 @@ export function BlogHomePage() {
       category: 'Engine Components',
       readTime: '7 min read',
       publishDate: 'December 10, 2024',
-      image: '/images/blog/carburetor-vs-fuel-injection.jpg'
+      image: '/images/blog/carburetor-vs-fuel-injection.webp'
     },
     {
       title: 'How To Read Tire Size',
@@ -66,7 +66,7 @@ export function BlogHomePage() {
       category: 'Tires & Wheels',
       readTime: '5 min read',
       publishDate: 'December 9, 2024',
-      image: '/images/blog/how-to-read-tire-size.jpg'
+      image: '/images/blog/how-to-read-tire-size.webp'
     },
     {
       title: 'How to Reduce Fuel Consumption',
@@ -75,7 +75,7 @@ export function BlogHomePage() {
       category: 'Fuel Economy',
       readTime: '8 min read',
       publishDate: 'December 8, 2024',
-      image: '/images/blog/how-to-reduce-fuel-consumption.jpg'
+      image: '/images/blog/how-to-reduce-fuel-consumption.webp'
     },
     {
       title: 'Why Does My Speedometer Read Faster',
@@ -84,7 +84,7 @@ export function BlogHomePage() {
       category: 'Tires & Wheels',
       readTime: '6 min read',
       publishDate: 'December 6, 2024',
-      image: '/images/blog/why-does-my-speedometer-read-faster.jpg'
+      image: '/images/blog/why-does-my-speedometer-read-faster.webp'
     }
   ];
 
