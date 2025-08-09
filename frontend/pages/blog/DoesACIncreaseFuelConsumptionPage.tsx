@@ -33,7 +33,7 @@ export function DoesACIncreaseFuelConsumptionPage() {
           <article className="lg:w-2/3">
         <header className="mb-8">
           <img 
-            src="/images/blog/does-ac-increase-fuel-consumption.jpg" 
+            src="/images/blog/does-ac-increase-fuel-consumption.webp" 
             alt="Does AC Increase Fuel Consumption"
             className="w-full h-64 sm:h-80 object-cover rounded-lg mb-6"
           />
