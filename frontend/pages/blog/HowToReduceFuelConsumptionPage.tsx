@@ -33,7 +33,7 @@ export function HowToReduceFuelConsumptionPage() {
           <article className="lg:w-2/3">
         <header className="mb-8">
           <img 
-            src="/images/blog/how-to-reduce-fuel-consumption.jpg" 
+            src="/images/blog/how-to-reduce-fuel-consumption.webp" 
             alt="How to Reduce Fuel Consumption A Guide to Better Fuel Economy"
             className="w-full h-64 sm:h-80 object-cover rounded-lg mb-6"
           />
