@@ -33,7 +33,7 @@ export function WhyDoesMySpeedometerReadFasterPage() {
           <article className="lg:w-2/3">
         <header className="mb-8">
           <img 
-            src="/images/blog/why-does-my-speedometer-read-faster.jpg" 
+            src="/images/blog/why-does-my-speedometer-read-faster.webp" 
             alt="Why Does My Speedometer Read Faster Than Actual Speed"
             className="w-full h-64 sm:h-80 object-cover rounded-lg mb-6"
           />
