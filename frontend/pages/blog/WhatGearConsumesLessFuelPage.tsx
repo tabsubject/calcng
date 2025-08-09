@@ -33,7 +33,7 @@ export function WhatGearConsumesLessFuelPage() {
           <article className="lg:w-2/3">
         <header className="mb-8">
           <img 
-            src="/images/blog/what-gear-consumes-less-fuel.jpg" 
+            src="/images/blog/what-gear-consumes-less-fuel.webp" 
             alt="What Gear Consumes Less Fuel"
             className="w-full h-64 sm:h-80 object-cover rounded-lg mb-6"
           />
