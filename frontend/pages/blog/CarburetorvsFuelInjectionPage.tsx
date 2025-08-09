@@ -33,7 +33,7 @@ export function CarburetorvsFuelInjectionPage() {
           <article className="lg:w-2/3">
         <header className="mb-8">
           <img 
-            src="/images/blog/carburetor-vs-fuel-injection.jpg" 
+            src="/images/blog/carburetor-vs-fuel-injection.webp" 
             alt="Carburetor vs Fuel Injection What You Should Know"
             className="w-full h-64 sm:h-80 object-cover rounded-lg mb-6"
           />
